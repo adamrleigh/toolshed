@@ -28,7 +28,7 @@ Toolshed was developed in an 8 day sprint as part of Northcoders final project p
 
 ### Usage
 
-N.B If you have not already, download expo go [on your device](https://expo.dev/expo-go), or follow [these steps](https://docs.expo.dev/workflow/android-studio-emulator/) to setup an emulator with expo go
+N.B. If you have not already, download expo go [on your device](https://expo.dev/expo-go), or follow [these steps](https://docs.expo.dev/workflow/android-studio-emulator/) to setup an emulator with expo go.
 
 1. Clone the repo by running:
 ```
