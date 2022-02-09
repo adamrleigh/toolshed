@@ -22,7 +22,7 @@ Link to Graduation Showcase (Toolshed features from 0:41-13:41): https://youtu.b
   - Firebase
   - Node.js  
 
-## Running
+## Usage
 
 ### Requirements
 
@@ -31,7 +31,7 @@ Link to Graduation Showcase (Toolshed features from 0:41-13:41): https://youtu.b
 - A firebase app with authentication, storage, and database enabled ([click here for a guide on creating a firebase app](https://firebase.google.com/docs/web/setup?continue=https%3A%2F%2Ffirebase.google.com%2Flearn%2Fpathways%2Ffirebase-web%23article-https%3A%2F%2Ffirebase.google.com%2Fdocs%2Fweb%2Fsetup))
 - Either a Physical or emulated phone/tablet with Expo go v5+
 
-### Usage
+### Running Toolshed
 
 N.B. If you have not already, download expo go [on your device](https://expo.dev/expo-go), or follow [these steps](https://docs.expo.dev/workflow/android-studio-emulator/) to setup an emulator with expo go.
 
