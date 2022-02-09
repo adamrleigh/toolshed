@@ -6,6 +6,7 @@ Simply put, Toolshed is a decentralised [item library](https://en.wikipedia.org/
 Whilst there are no restrictions on the kinds of items that can be shared, the main targets are items such as power tools that are used infrequently and gather dust for months on end.
 
 By sharing items within the local community, users save money and reduce waste whilst fostering community spirit. 
+
 The design philosophy of Toolshed is a platform rather than a service - Toolshed connects you with your community and facilitate sharing that works for you.
 
 
