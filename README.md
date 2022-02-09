@@ -1,7 +1,11 @@
 # 🛠 Toolshed 🛠
 
 
-Toolshed is a decentralised community item library. It's mantra is to promote sharing of resources and build community spirit whilst saving the user money and reducing unnecessary waste, by facilitating lending and borrowing in a board of posts/requests and user-to-user chatrooms.
+Simply put, Toolshed is a decentralised [item library](https://en.wikipedia.org/wiki/Borrowing_center). Whilst there are no restrictions on the kinds of items that can be shared, the main targets are items such as power tools that are used infrequently and gather dust for months on end.
+By sharing these items within the local community, users save money and reduce waste whilst fostering community spirit. 
+The design philosophy of Toolshed is a platform rather than a service - we connect you with likeminded inviduals and facilitate sharing that works for you.
+
+
 
 Toolshed was developed in an 8 day sprint as part of Northcoders final project phase by @adamrleigh @eobr @Eth4nF @hevmag @k-huggs.
 
